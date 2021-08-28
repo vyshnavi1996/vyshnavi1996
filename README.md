@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Vyshnavi Tadipaneni
-Role : Full stack developer.
-Languages : Java, HTML, CSS, Javascript, SQL
-Interested topics : Java, Javascript, Angular.
-I'm good at java, HTML, CSS, Javascript.
-Email : vyshnavi.t14@gmail.com
+<b>Vyshnavi Tadipaneni</b>
+-  <b>Role</b> : Full stack developer.
+- <b>Languages</b> : Java, HTML, CSS, Javascript, SQL
+- <b>Interested topics</b> : Java, Javascript, Angular.
+- I'm good at java, HTML, CSS, Javascript.
+- <b>Email</b> : vyshnavi.t14@gmail.com
